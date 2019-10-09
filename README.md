@@ -1,6 +1,6 @@
 # babel-framework-backend
 
-Si compili nell'ordine.
+Si compili nell'ordine:
 - next-spring-data-rest-framework
 - jenesis-projections-generator
 - internauta-utils
